@@ -1,0 +1,21 @@
+{
+    "Clients": true,
+    "Suppliers": true,
+    "Prospects": true,
+    "Invoices": true,
+    "Orders": true,
+    "Sales": true,
+    "Accounts": true,
+    "AccountsCharts": true,
+    "Accountscharts": true,
+    "AccountsChart": true,
+    "CollectifAccountsGroups": true,
+    "CollectifAccounts": true,
+    "Demos": true,
+    "Tests": true,
+    "Companies": true,
+    "Units": true,
+    "UnitConverters": true,
+    "Categories": true,
+    "Items": true
+}
